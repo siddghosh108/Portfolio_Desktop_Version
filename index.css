@@ -1716,6 +1716,10 @@
     color: #172b4d;
   }
 
+  .desktop-form-text:hover{
+    transform: translate(-2.1rem, -2ex);
+  }
+
   .desktop-version-formular {
     display: flex;
     flex-direction: column;
