@@ -402,7 +402,7 @@
     width: 140px;
     height: 48px;
     bottom: 8px;
-    background-color: #36B37F;
+    background-color: #36b37f;
     border-radius: 4px;
     border: none;
     font-family: 'Inter', sans-serif;
@@ -419,8 +419,8 @@
   }
 
   .btn-green:hover {
-    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
-    background-color: #36B37F;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36b37f;
   }
 
   .btn-green:active {
@@ -1375,15 +1375,15 @@
     color: white;
     width: 122px;
     height: 48px;
-    background-color: #36B37F; 
+    background-color: #36b37f;
     border-radius: 4px;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
     box-shadow: none;
   }
 
   .desktop-btn-green:hover {
-    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
-    background-color: #36B37F;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36b37f;
   }
 
   .desktop-btn-green:active {
@@ -1458,7 +1458,7 @@
     gap: 10px;
     width: 159px;
     height: 48px;
-    background-color: #36B37F;
+    background-color: #36b37f;
     border-radius: 4px;
     border: none;
     font-family: 'Inter', sans-serif;
@@ -1473,8 +1473,8 @@
   }
 
   .desktop-get-my-resume:hover {
-    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
-    background-color: #36B37F;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36b37f;
   }
 
   .desktop-get-my-resume:active {
@@ -1804,8 +1804,8 @@
   }
 
   .desktop-btn-green-submit:hover {
-    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
-    background-color: #36B37F;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36b37f;
   }
 
   .desktop-btn-green-submit:active {
