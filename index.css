@@ -402,7 +402,7 @@
     width: 140px;
     height: 48px;
     bottom: 8px;
-    background-color: #36b37f;
+    background-color: #36B37F;
     border-radius: 4px;
     border: none;
     font-family: 'Inter', sans-serif;
@@ -414,15 +414,17 @@
     letter-spacing: 0.03em;
     color: #fff;
     margin: 0;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: none;
   }
 
   .btn-green:hover {
-    background-color: orange !important;
+    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36B37F;
   }
 
   .btn-green:active {
-    background-color: green;
+    background-color: #008552;
   }
 
   .about-me {
@@ -1373,17 +1375,19 @@
     color: white;
     width: 122px;
     height: 48px;
-    background: #36b37f;
+    background-color: #36B37F; 
     border-radius: 4px;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: none;
   }
 
   .desktop-btn-green:hover {
-    background-color: orange !important;
+    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36B37F;
   }
 
   .desktop-btn-green:active {
-    background-color: green;
+    background-color: #008552;
   }
 
   .desktop-card-work-row-2 {
@@ -1454,7 +1458,7 @@
     gap: 10px;
     width: 159px;
     height: 48px;
-    background: #36b37f;
+    background-color: #36B37F;
     border-radius: 4px;
     border: none;
     font-family: 'Inter', sans-serif;
@@ -1469,13 +1473,12 @@
   }
 
   .desktop-get-my-resume:hover {
-    border: 1px solid blue;
-    text-decoration: underline;
-    text-decoration-color: blue;
+    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36B37F;
   }
 
   .desktop-get-my-resume:active {
-    background-color: green;
+    background-color: #008552;
   }
 
   .about-me-content {
@@ -1796,16 +1799,17 @@
     height: 48px;
     background: #36b37f;
     border-radius: 4px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: none;
   }
 
   .desktop-btn-green-submit:hover {
-    border: 1px solid blue;
-    text-decoration: underline;
-    text-decoration-color: blue;
+    box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.25);
+    background-color: #36B37F;
   }
 
   .desktop-btn-green-submit:active {
-    background-color: green;
+    background-color: #008552;
   }
 
   footer {
