@@ -90,7 +90,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 Install this project with:
 
 - Open your command prompt or terminal and run.
--  git clone -b feature https://github.com/siddghosh108/Portfolio.git
+-  git clone https://github.com/siddghosh108/Portfolio_Desktop_Version.git
 cd -Portfolio-
 
 ### Usage
